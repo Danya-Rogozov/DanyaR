@@ -1,4 +1,4 @@
-# DanyaRfrom tkinter import *
+from tkinter import *
 
 
 class Paint(Frame):
