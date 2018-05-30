@@ -1,0 +1,16 @@
+key = 3017
+server = ("192.168.31.86", 9090)
+
+C:\Users\student.ZSS\PycharmProjects\untitled6\venv\Scripts\python.exe C:/Users/student.ZSS/PycharmProjects/untitled6/client.py
+Name: hjhjhjh
+[Vlad] => join chat 
+[Vlad] :: Privet
+àîàðîïð
+îðëîðëîðëäîð
+ïëäðîàïøîðàïëîðëäàïð
+ëëîïâàðïîà[Vlad] :: hserfghsdrg
+òïîëâàïîâàîàïîëàïèîà
+[Vlad] :: rgsdrgrg
+àîëîîðëîàîëðàî
+ïðèâåå[Vlad] :: Kak dela
+ååååååååååååååååååååå ðîîîîîîîîîîîê
